@@ -1,5 +1,4 @@
-# Huddle landing page with alternating feature blocks
+# Huddle Landing Page - Frontend Mentor.
 
-This is HTML and CSS practice site #1. I will be doing more of them with increased difficulty. <br>
-Haven't learned responsive design yet so this is without it.
- 
+As of now, this site is only for desktop since i haven't learned responsive design yet. <br>
+Mobile and tablet view will be added in the future.
