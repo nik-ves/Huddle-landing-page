@@ -73,7 +73,7 @@ img {
 }
 
 header {
-	background-image: url('./images/bg-hero-desktop.svg');
+	background-image: url('../images/bg-hero-desktop.svg');
 	background-size: cover;
 	background-position: center center;
 	background-color: hsl(193, 100%, 96%);
